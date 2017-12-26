@@ -1,0 +1,25 @@
+.fieldRow {
+  display: block;
+  height: 60px;
+  margin-top: 4vh;
+}
+.fieldName {
+  margin: 5px;
+  font-weight: bold;
+}
+.fieldValue {
+  margin: 5px;
+}
+.actionBox {
+  display: block;
+}
+.topLine {
+  display: flex;
+  align-items: center;
+}
+.backButton {
+  margin-right:15px;
+}
+.header {
+  margin-left: 15px;
+}

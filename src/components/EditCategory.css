@@ -1,0 +1,17 @@
+.fieldRow {
+  display: block;
+  height: 60px;
+}
+.actionBox {
+  display: block;
+}
+.topLine {
+  display: flex;
+  align-items: center;
+}
+.backButton {
+  margin-right:15px;
+}
+.header {
+  margin-left: 15px;
+}

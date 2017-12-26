@@ -1,0 +1,7 @@
+.panel {
+  position: fixed;
+  bottom: 0vh;
+  left:50%;
+  width: 70vw;
+  margin-left: -35vw;
+}

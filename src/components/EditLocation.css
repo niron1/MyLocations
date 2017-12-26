@@ -1,0 +1,29 @@
+.fieldRow {
+  height: 60px;
+  margin-bottom: 10px;
+}
+.fieldRow label {
+  position: relative;
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
+  top:20px;
+  min-width: 10vw;
+  margin-right:20px;
+}
+.actionBox {
+  display: block;
+}
+.topLine {
+  display: flex;
+  align-items: center;
+}
+.backButton {
+  margin-right:15px;
+}
+.submitButton {
+  margin-bottom:100px;
+}
+.header {
+  margin-left: 15px;
+}
