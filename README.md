@@ -1,4 +1,7 @@
 # Front-End (React/Angular2) Practical Exam
+
+First try to solve this yourself - use this source code as an assitance  
+
 ## Overview
 The exam is designed to test your ability to cope with the new technologies and ability to learn and integrate with external frameworks.  There is no algorithmic complexity or computation challenge. It is completely trivial in this respect. 
 While the correctness of the implementation, the lack of bugs and the overall look and feel of the external result is of the highest importance, the elegancy of the code, usage of the correct language idioms and patterns and the coding conventions and practices applied will also play a major factor when evaluating the solution. It should behave well both externally and internally.
