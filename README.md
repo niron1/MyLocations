@@ -1,5 +1,6 @@
-# Front-End (React/Angular2) Practical Exam
+# Front-End (React) Practical Exam
 
+An example of React code exam and a solution.
 First try to solve this yourself - use this source code as an assitance  
 
 ## Overview
@@ -10,11 +11,7 @@ You can use the IDE of your liking to develop this part of the solution.
 ### React
 It is expected that you base your design on either a Flux architecture, preferably, Redux, or on MobX.
 Use babel and webpack to support es2015 style jsx syntax and module loading. 
-### Angular 2
-You can use either webpack or gulp based build environments.
-Use typescript, modern style (es2015 etc).
-Choose an architecture based on RxJS and/or Redux and/or observables.
-## Sample Application Description
+# Sample Application Description
 The sample application is called myLocations and it allows the user to maintain a list of categorized name locations. 
 The domain model contains two main entities, a Category and a Location. A Category has a single property: Name. A Location has the following properties: Name, Address, Coordinates, and Category.
 All data is saved to the locale storage of the browser (an HTML5 feature) for simplicity.
